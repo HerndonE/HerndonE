@@ -1,7 +1,7 @@
 ### Hi there, I'm Ethan - aka HerndonE 👋
 
 ## I'm a Student, Programmer, and a Developer!
-- 🔭 I’m currently working on my [Discord Bot][https://github.com/HerndonE/Gort-Bot]!
+- 🔭 I’m currently working on my [Discord Bot](https://github.com/HerndonE/Gort-Bot)!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to get a job as a Game Designer
 - 🥅 2020 Goals: Contribute more to GitHub
@@ -9,8 +9,8 @@
 
 ### Connect with me:
 
-[<img align="left" alt="HerndonE | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][https://www.linkedin.com/in/ethan-herndon-8ba950196/]
-[<img align="left" alt="HerndonE | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][https://discord.gg/heMjATN]
+[<img align="left" alt="HerndonE | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/ethan-herndon-8ba950196/)
+[<img align="left" alt="HerndonE | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />](https://discord.gg/heMjATN)
 
 <br />
 
@@ -29,8 +29,6 @@
 [<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/git.svg" />]
 [<img align="left" alt="GitHub" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/github.svg" />]
 [<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/mysql.svg" />]
-
-
 
 <br />
 <br />
