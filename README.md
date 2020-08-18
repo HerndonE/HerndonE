@@ -3,7 +3,7 @@
 ## I'm a Student, Programmer, and a Developer!
 - 🔭 I’m currently working on my [Discord Bot](https://github.com/HerndonE/Gort-Bot)!
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to get a job as a Game Designer
+- 👯 I’m looking to get a job as a Game Designer and or a Networking Engineer    
 - 🥅 2020 Goals: Contribute more to GitHub
 - ⚡ Fun fact: I love to go hiking, camping, and water-skiing
 
