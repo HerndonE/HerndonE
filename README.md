@@ -33,6 +33,11 @@
 <br />
 <br />
 
-![Ethan's github stats](https://github-readme-stats.vercel.app/api?username=HerndonE&count_private=true&show_icons=true&theme=merko)
+<details>
+  <summary>:zap: Github Stats</summary>
+
+  <img align="left" alt="HerndonE's Github Stats" src="https://github-readme-stats.herndone.vercel.app/api?username=HerndonE&show_icons=true&hide_border=true" />
+
+</details>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HerndonE&layout=compact)
