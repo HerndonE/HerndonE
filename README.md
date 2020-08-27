@@ -1,5 +1,7 @@
 ### Hi there, I'm Ethan - aka HerndonE 👋
 
+![visitors](https://badges.pufler.dev/visits/HerndonE/HerndonE)![years](https://badges.pufler.dev/years/HerndonE)    
+
 ## I'm a Student, Programmer, and a Developer!
 - 🔭 I’m currently working on my [Discord Bot](https://github.com/HerndonE/Gort-Bot)!
 - 🌱 I’m currently learning everything 🤣
