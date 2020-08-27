@@ -36,7 +36,15 @@
 <details>
   <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="HerndonE's Github Stats" src="https://github-readme-stats.herndone.vercel.app/api?username=HerndonE&show_icons=true&hide_border=true" />
+  <img align="left" alt="HerndonE's Github Stats" src="https://github-readme-stats.herndone.vercel.app/api?username=HerndonE&show_icons=true&hide_border=true&theme=merko" />
+
+</details>
+
+<details>
+  <summary>:zap: Recent Github Activity</summary>
+  
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 </details>
 
