@@ -6,17 +6,17 @@
 - 🔭 I’m currently working on my [Discord Bot](https://github.com/HerndonE/Gort-Bot)!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to get a job as a Game Designer and or a Networking Engineer    
-- 🥅 2020 Goals: Contribute more to GitHub
+- 🥅 2021 Goals: Contribute more to GitHub
 - ⚡ Fun fact: I love to go hiking, camping, and water-skiing
 
-### Connect with me:
+## Connect with me:
 
 [<img align="left" alt="HerndonE | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/ethan-herndon-8ba950196/)
 [<img align="left" alt="HerndonE | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />](https://discord.gg/heMjATN)
 
 <br />
 
-### Languages and Tools:
+## Languages and Tools:
 
 <img align="left" alt="c++" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/cplusplus.svg" />
 <img align="left" alt="c#" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/csharp.svg" />
