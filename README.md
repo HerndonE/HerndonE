@@ -2,7 +2,7 @@
 
 ![visitors](https://badges.pufler.dev/visits/HerndonE/HerndonE)![years](https://badges.pufler.dev/years/HerndonE)    
 
-## I'm a Student, Programmer, and a Developer!
+## I'm a programmer and a developer!
 - 🔭 I’m currently working on my [Discord Bot](https://github.com/HerndonE/Gort-Bot)!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to get a job as a Game Designer and or a Networking Engineer    
