@@ -1,18 +1,18 @@
-### Hi there, I'm Ethan - aka HerndonE 👋
+### Hi there, I'm Ethan 👋
 
 ![visitors](https://badges.pufler.dev/visits/HerndonE/HerndonE)![years](https://badges.pufler.dev/years/HerndonE)    
 
-## I'm a programmer and a developer!
-- 🔭 I’m currently working on my [Discord Bot](https://github.com/HerndonE/Gort-Bot)!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to get a job as a Game Designer and or a Networking Engineer    
-- 🥅 2021 Goals: Contribute more to GitHub
+## I'm a Software Engineer and a Developer!
+- 🔭 Currently working on my [Discord Bot](https://github.com/HerndonE/Gort-Bot) and learning everything 🤣
+- 👨‍💻 Software Engineer at [Mighty Oak Medical](https://mightyoakmedical.com/) 
+- 🥅 2022 Goals: Contribute more to GitHub
 - ⚡ Fun fact: I love to go hiking, camping, and water-skiing
 
 ## Connect with me:
 
 [<img align="left" alt="HerndonE | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/ethan-herndon-8ba950196/)
 [<img align="left" alt="HerndonE | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />](https://discord.gg/heMjATN)
+[<img align="left" alt="HerndonE | Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/youtube.svg" />](https://www.youtube.com/channel/UCrImlETsN44qo421NOVbo5g)
 
 <br />
 
