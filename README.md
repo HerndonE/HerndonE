@@ -1,9 +1,9 @@
 ### Hi there, I'm Ethan 👋
 
-![visitors](https://badges.pufler.dev/visits/HerndonE/HerndonE)![years](https://badges.pufler.dev/years/HerndonE)    
+<!--![visitors](https://badges.pufler.dev/visits/HerndonE/HerndonE)![years](https://badges.pufler.dev/years/HerndonE)-->
 
 ## I'm a Software Engineer and a Developer!
-- 🔭 Currently working on my [Discord Bot](https://github.com/HerndonE/Gort-Bot) and learning everything 🤣
+- 🔭 Currently working on learning everything 🤣
 - 👨‍💻 Software Engineer at [Mighty Oak Medical](https://mightyoakmedical.com/) 
 - 🥅 2022 Goals: Contribute more to GitHub
 - ⚡ Fun fact: I love to go hiking, camping, and water-skiing
@@ -53,10 +53,11 @@
 <br />
 <br />
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=herndone" alt="herndone" /></a> </p>
+<!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=herndone" alt="herndone" /></a>-->
+</p>
 <img align="left" alt="HerndonE's Github Stats" src="https://github-readme-stats.herndone.vercel.app/api?username=HerndonE&show_icons=true&hide_border=true&theme=merko" />
 
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HerndonE&layout=compact)
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=herndone&" alt="herndone" /></p>
+<p>
+<!--<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=herndone&" alt="herndone" /></p>-->
 
