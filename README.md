@@ -5,7 +5,7 @@
 ## I'm a Software Engineer and a Developer!
 - 🔭 Currently working on learning everything 🤣
 - 👨‍💻 Software Engineer at [Mighty Oak Medical](https://mightyoakmedical.com/) 
-- 🥅 2022 Goals: Contribute more to GitHub
+- 🥅 2023 Goals: Contribute more to GitHub
 - ⚡ Fun fact: I love to go hiking, camping, and water-skiing
 
 ## Connect with me:
