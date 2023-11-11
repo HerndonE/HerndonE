@@ -1,13 +1,15 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=013208&height=180&section=header&text=Hi%20%20there,%20I'm%20Ethan%20👋!&fontSize=70&animation=fadeIn&fontAlignY=38&fontColor=FFFFFF&descAlignY=51&descAlign=50)
 
-## <center><code>**I'm a Software Engineer and a Developer!**</code></center>
+## <p align="center"><code>**I'm a Software Engineer and a Developer!**</code></p>
 
-
-<center>🔭 Currently working on learning everything 🤣</center>
-<center>👨‍💻 Software Engineer at <a href="https://mightyoakmedical.com/">Mighty Oak Medical</a></center>
-<center>🥅 2023 Goals: Contribute more to GitHub</li></center>
-<center>⚡ Fun fact: I love to go hiking, camping, and water-skiing</center>
-
+<p align="center">
+  <ul style="list-style: none; padding: 0; margin: 0;">
+    <li>🔭 Currently working on learning everything 🤣</li>
+    <li>👨‍💻 Software Engineer at <a href="https://mightyoakmedical.com/">Mighty Oak Medical</a></li>
+    <li>🥅 2023 Goals: Contribute more to GitHub</li>
+    <li>⚡ Fun fact: I love to go hiking, camping, and water-skiing</li>
+  </ul>
+</p>
 
 ## <p align="center"><code>**Connect with me**</code></p>
 [<center><img align="center" alt="HerndonE | LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ethan-herndon-8ba950196/)
