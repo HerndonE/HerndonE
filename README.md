@@ -2,19 +2,23 @@
 
 ## <p align="center"><code>**I'm a Software Engineer and a Developer!**</code></p>
 
-<p align="center">
+<div style="text-align: center;">
   <ul style="list-style: none; padding: 0; margin: 0;">
     <li>🔭 Currently working on learning everything 🤣</li>
     <li>👨‍💻 Software Engineer at <a href="https://mightyoakmedical.com/">Mighty Oak Medical</a></li>
     <li>🥅 2023 Goals: Contribute more to GitHub</li>
     <li>⚡ Fun fact: I love to go hiking, camping, and water-skiing</li>
   </ul>
-</p>
+</div>
 
 ## <p align="center"><code>**Connect with me**</code></p>
-[<center><img align="center" alt="HerndonE | LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ethan-herndon-8ba950196/)
-[<img align="center" alt="HerndonE | Discord" src="https://img.shields.io/badge/Discord-5865F2?&style=for-the-badge&logo=discord&logoColor=white" />](https://discord.gg/heMjATN)
-[<img align="center" alt="HerndonE | Youtube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></center>](https://www.youtube.com/channel/UCrImlETsN44qo421NOVbo5g)
+
+<p align="center">
+<a href="https://www.linkedin.com/in/ethan-herndon-8ba950196/"/> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://discord.gg/heMjATN"/><img src="https://img.shields.io/badge/Discord-5865F2?&style=for-the-badge&logo=discord&logoColor=white"/></a>
+<a href="https://www.youtube.com/channel/UCrImlETsN44qo421NOVbo5g"/><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+</p>
+
 
 ## <p align="center"><code>**Langauges| Tools | Frameworks**</code></p>
 
