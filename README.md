@@ -8,14 +8,14 @@
 ⚡ Fun fact: I love to go hiking, camping, and water-skiing
 </p>
 
-## <p align="center">**Connect with me**</p>
+## <p align="center">**<code>Connect with me</code>**</p>
 <p align="center">
 <a href="https://www.linkedin.com/in/ethan-herndon-8ba950196/"/> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://discord.gg/heMjATN"/><img src="https://img.shields.io/badge/Discord-5865F2?&style=for-the-badge&logo=discord&logoColor=white"/></a>
 <a href="https://www.youtube.com/channel/UCrImlETsN44qo421NOVbo5g"/><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 </p>
 
-## <p align="center">**Langauges| Tools | Frameworks**</p>
+## <p align="center">**<code>Langauges| Tools | Frameworks</code>**</p>
 <p align="center">
 <a href="C++"/> <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/></a>
 <a href="Python"/> <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/></a>
@@ -39,7 +39,7 @@
 </p>
 
 
-## <p align="center">**Analytics**</p>
+## <p align="center">**<code>Analytics</code>**</p>
 <p align="center">
 <a href="https://github.com/HerndonE">
   <img height="180em" src="https://github-readme-stats.herndone.vercel.app/api?username=HerndonE&show_icons=true&hide_border=true&theme=merko" />
