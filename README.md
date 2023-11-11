@@ -1,42 +1,60 @@
-### Hi there, I'm Ethan 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=013208&height=180&section=header&text=Hi%20%20there,%20I'm%20Ethan%20👋!&fontSize=70&animation=fadeIn&fontAlignY=38&fontColor=FFFFFF&descAlignY=51&descAlign=50)
 
-<!--![visitors](https://badges.pufler.dev/visits/HerndonE/HerndonE)![years](https://badges.pufler.dev/years/HerndonE)-->
+## <p align="center"><code>**I'm a Software Engineer and a Developer!**</code></p>
 
-## I'm a Software Engineer and a Developer!
-- 🔭 Currently working on learning everything 🤣
-- 👨‍💻 Software Engineer at [Mighty Oak Medical](https://mightyoakmedical.com/) 
-- 🥅 2023 Goals: Contribute more to GitHub
-- ⚡ Fun fact: I love to go hiking, camping, and water-skiing
+<div style="text-align: center;">
+  <ul style="list-style: none; padding: 0; margin: 0;">
+    <li>🔭 Currently working on learning everything 🤣</li>
+    <li>👨‍💻 Software Engineer at <a href="https://mightyoakmedical.com/">Mighty Oak Medical</a></li>
+    <li>🥅 2023 Goals: Contribute more to GitHub</li>
+    <li>⚡ Fun fact: I love to go hiking, camping, and water-skiing</li>
+  </ul>
+</div>
 
-## Connect with me:
+## <p align="center"><code>**Connect with me**</code></p>
+[<center><img align="center" alt="HerndonE | LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ethan-herndon-8ba950196/)
+[<img align="center" alt="HerndonE | Discord" src="https://img.shields.io/badge/Discord-5865F2?&style=for-the-badge&logo=discord&logoColor=white" />](https://discord.gg/heMjATN)
+[<img align="center" alt="HerndonE | Youtube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></center>](https://www.youtube.com/channel/UCrImlETsN44qo421NOVbo5g)
 
-[<img align="left" alt="HerndonE | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/ethan-herndon-8ba950196/)
-[<img align="left" alt="HerndonE | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />](https://discord.gg/heMjATN)
-[<img align="left" alt="HerndonE | Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/youtube.svg" />](https://www.youtube.com/channel/UCrImlETsN44qo421NOVbo5g)
+## <p align="center"><code>**Langauges| Tools | Frameworks**</code></p>
 
-<br />
+<div style="text-align: center;">
 
-### Programming Languages:
-<img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/><img src="https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white"/><img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/><img src="https://img.shields.io/badge/lua-%232C2D72.svg?&style=for-the-badge&logo=lua&logoColor=white"/><img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/><img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/><img src="https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white"/>  
-### Markup Languages
-<img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/><img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> 
-### Frameworks/Runtime Environments:    
-<img src="https://img.shields.io/badge/DISCORD.JS%20-%23593d88.svg?&style=for-the-badge&logo=discord&logoColor=white"/><img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/><img src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge"/><img src="https://img.shields.io/badge/jquery%20-%230769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white"/>
-### Design:    
-<img src="https://img.shields.io/badge/adobe%20-%23FF0000.svg?&style=for-the-badge&logo=adobe&logoColor=white"/><img src="https://img.shields.io/badge/adobe%20photoshop%20-%2331A8FF.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/><img src="https://img.shields.io/badge/adobe%20illustrator%20-%23FF9A00.svg?&style=for-the-badge&logo=adobe%20illustrator&logoColor=white"/>
-### Version Control:
-<img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/><img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white"/>
-### Hosting/SaaS:    
-<img src="https://img.shields.io/badge/heroku%20-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white"/><img src="https://img.shields.io/badge/vercel%20-%23000000.svg?&style=for-the-badge&logo=vercel&logoColor=white"/>
-### Databases:        
-<img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/><img src ="https://img.shields.io/badge/sqlite-%2307405e.svg?&style=for-the-badge&logo=sqlite&logoColor=white"/>
+![C++](https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white)
+![Python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)
+![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?&style=for-the-badge&logo=lua&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![C#](https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
+![Heroku](https://img.shields.io/badge/heroku%20-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel%20-%23000000.svg?&style=for-the-badge&logo=vercel&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white)
+![Unity](https://img.shields.io/badge/unity%20-%23000000.svg?&style=for-the-badge&logo=unity&logoColor=white)
+![Discord.js](https://img.shields.io/badge/DISCORD.JS%20-%23593d88.svg?&style=for-the-badge&logo=discord&logoColor=white)
+![Node.js](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge)
+![jQuery](https://img.shields.io/badge/jquery%20-%230769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white)
+</div>
 
-### Gaming:    
-<img src="https://img.shields.io/badge/unity%20-%23000000.svg?&style=for-the-badge&logo=unity&logoColor=white"/><img src="https://img.shields.io/badge/battle.net%20-%2300AEFF.svg?&style=for-the-badge&logo=battle.net&logoColor=white"/><img src="https://img.shields.io/badge/steam%20-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white"/> 
-### Other:    
-<img src="https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi"/><img src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
-<!--
-<img align="left" alt="c++" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/cplusplus.svg" />
+## <p align="center"><code>**Analytics**</code></p>
+<p align="center">
+<a href="https://github.com/HerndonE">
+  <img height="180em" src="https://github-readme-stats.herndone.vercel.app/api?username=HerndonE&show_icons=true&hide_border=true&theme=merko" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HerndonE&layout=compact&hide_border=true&theme=merko" />
+  <img height="180em" src="https://github-profile-trophy.vercel.app/?username=herndone&column=-1&theme=gruvbox&no-frame=true" alt="herndone""/></a>
+</p>
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=013208&height=100&section=footer)
+
+ <!-- Materials not needed for now
+ <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=herndone&" alt="herndone"
+ 
+ <img align="left" alt="c++" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/cplusplus.svg" />
 <img align="left" alt="c#" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/csharp.svg" />
 <img align="left" alt="Unity" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/unity.svg" />
 <img align="left" alt="Intellij" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/intellijidea.svg" />
@@ -48,16 +66,9 @@
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/html5.svg" />
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/git.svg" />
 <img align="left" alt="GitHub" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/github.svg" />
-<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/mysql.svg" />  
--->
-<br />
-<br />
+<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/mysql.svg" />
 
-<!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=herndone" alt="herndone" /></a>-->
-</p>
-<img align="left" alt="HerndonE's Github Stats" src="https://github-readme-stats.herndone.vercel.app/api?username=HerndonE&show_icons=true&hide_border=true&theme=merko" />
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=herndone" alt="herndone" /></a>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HerndonE&layout=compact)
-<p>
-<!--<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=herndone&" alt="herndone" /></p>-->
-
+[visitors](https://badges.pufler.dev/visits/HerndonE/HerndonE)![years](https://badges.pufler.dev/years/HerndonE)
+ -->
