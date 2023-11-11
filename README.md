@@ -1,7 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=013208&height=180&section=header&text=Hi%20%20there,%20I'm%20Ethan%20👋!&fontSize=70&animation=fadeIn&fontAlignY=38&fontColor=FFFFFF&descAlignY=51&descAlign=50)
 
 ## <p align="center">**I'm a Software Engineer and a Developer!**</p>
-
 <p align="center">
 🔭 Currently working on learning everything 🤣<br>
 👨‍💻 Software Engineer at <a href="https://mightyoakmedical.com/">Mighty Oak Medical</a><br>
@@ -10,17 +9,14 @@
 </p>
 
 ## <p align="center">**Connect with me**</p>
-
 <p align="center">
 <a href="https://www.linkedin.com/in/ethan-herndon-8ba950196/"/> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://discord.gg/heMjATN"/><img src="https://img.shields.io/badge/Discord-5865F2?&style=for-the-badge&logo=discord&logoColor=white"/></a>
 <a href="https://www.youtube.com/channel/UCrImlETsN44qo421NOVbo5g"/><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 </p>
 
-
 ## <p align="center">**Langauges| Tools | Frameworks**</p>
-
-<div style="text-align: center;">
+<p align="center">
 
 ![C++](https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white)
 ![Python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)
@@ -41,7 +37,7 @@
 ![Node.js](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge)
 ![jQuery](https://img.shields.io/badge/jquery%20-%230769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white)
-</div>
+</p>
 
 ## <p align="center">**Analytics**</p>
 <p align="center">
