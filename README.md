@@ -1,17 +1,15 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=013208&height=180&section=header&text=Hi%20%20there,%20I'm%20Ethan%20👋!&fontSize=70&animation=fadeIn&fontAlignY=38&fontColor=FFFFFF&descAlignY=51&descAlign=50)
 
-## <p align="center"><code>**I'm a Software Engineer and a Developer!**</code></p>
+## <p align="center">**I'm a Software Engineer and a Developer!**</p>
 
-<div style="text-align: center;">
-  <ul style="list-style: none; padding: 0; margin: 0;">
-    <li>🔭 Currently working on learning everything 🤣</li>
-    <li>👨‍💻 Software Engineer at <a href="https://mightyoakmedical.com/">Mighty Oak Medical</a></li>
-    <li>🥅 2023 Goals: Contribute more to GitHub</li>
-    <li>⚡ Fun fact: I love to go hiking, camping, and water-skiing</li>
-  </ul>
-</div>
+<p align="center">
+🔭 Currently working on learning everything 🤣<br>
+👨‍💻 Software Engineer at <a href="https://mightyoakmedical.com/">Mighty Oak Medical</a><br>
+🥅 2023 Goals: Contribute more to GitHub<br>
+⚡ Fun fact: I love to go hiking, camping, and water-skiing
+</p>
 
-## <p align="center"><code>**Connect with me**</code></p>
+## <p align="center">**Connect with me**</p>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/ethan-herndon-8ba950196/"/> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -20,7 +18,7 @@
 </p>
 
 
-## <p align="center"><code>**Langauges| Tools | Frameworks**</code></p>
+## <p align="center">**Langauges| Tools | Frameworks**</p>
 
 <div style="text-align: center;">
 
@@ -45,7 +43,7 @@
 ![jQuery](https://img.shields.io/badge/jquery%20-%230769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white)
 </div>
 
-## <p align="center"><code>**Analytics**</code></p>
+## <p align="center">**Analytics**</p>
 <p align="center">
 <a href="https://github.com/HerndonE">
   <img height="180em" src="https://github-readme-stats.herndone.vercel.app/api?username=HerndonE&show_icons=true&hide_border=true&theme=merko" />
