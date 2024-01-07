@@ -4,7 +4,7 @@
 <p align="center">
 🔭 Currently working on learning everything 🤣<br>
 👨‍💻 Software Engineer at <a href="https://mightyoakmedical.com/">Mighty Oak Medical</a><br>
-🥅 2023 Goals: Contribute more to GitHub<br>
+🥅 2024 Goals: Contribute more to GitHub<br>
 ⚡ Fun fact: I love to go hiking, camping, and water-skiing
 </p>
 
@@ -42,7 +42,7 @@
 ## <p align="center">**<code>Analytics</code>**</p>
 <p align="center">
 <a href="https://github.com/HerndonE">
-  <img height="180em" src="https://github-readme-stats.herndone.vercel.app/api?username=HerndonE&show_icons=true&hide_border=true&theme=merko" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HerndonE&show_icons=true&hide_border=true&theme=merko" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HerndonE&layout=compact&hide_border=true&theme=merko" />
   <img height="180em" src="https://github-profile-trophy.vercel.app/?username=herndone&column=-1&theme=gruvbox&no-frame=true" alt="herndone""/></a>
 </p>
