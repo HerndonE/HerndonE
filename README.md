@@ -15,7 +15,7 @@
 <a href="https://www.youtube.com/channel/UCrImlETsN44qo421NOVbo5g"/><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 </p>
 
-## <p align="center">**<code>Langauges| Tools | Frameworks</code>**</p>
+## <p align="center">**<code>Langauges | Tools | Frameworks</code>**</p>
 <p align="center">
 <a href="C++"/> <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/></a>
 <a href="Python"/> <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/></a>
