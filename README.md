@@ -4,7 +4,7 @@
 <p align="center">
 🔭 Currently working on learning everything 🤣<br>
 👨‍💻 Software Engineer at <a href="https://mightyoakmedical.com/">Mighty Oak Medical</a><br>
-🥅 2024 Goals: Contribute more to GitHub<br>
+🥅 2025 Goals: Contribute more to GitHub<br>
 ⚡ Fun fact: I love to go hiking, camping, and water-skiing
 </p>
 
