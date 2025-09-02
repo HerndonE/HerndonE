@@ -11,8 +11,6 @@
 ## <p align="center">**<code>Connect with me</code>**</p>
 <p align="center">
 <a href="https://www.linkedin.com/in/ethan-herndon-8ba950196/"/> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://discord.gg/heMjATN"/><img src="https://img.shields.io/badge/Discord-5865F2?&style=for-the-badge&logo=discord&logoColor=white"/></a>
-<a href="https://www.youtube.com/channel/UCrImlETsN44qo421NOVbo5g"/><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 </p>
 
 ## <p align="center">**<code>Langauges | Tools | Frameworks</code>**</p>
