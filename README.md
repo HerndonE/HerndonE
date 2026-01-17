@@ -4,7 +4,7 @@
 <p align="center">
 🔭 Currently working on learning everything 🤣<br>
 <!-- 👨‍💻 Software Engineer at <a href="https">ACME</a><br>-->
-🥅 2025 Goals: Contribute more to GitHub<br>
+🥅 2026 Goals: Contribute more to GitHub<br>
 ⚡ Fun fact: I love to go hiking, camping, and water-skiing
 </p>
 
@@ -39,17 +39,18 @@
 </p>
 
 
-## <p align="center">**<code>Analytics</code>**</p>
+![header](https://capsule-render.vercel.app/api?type=waving&color=013208&height=100&section=footer)
+
+ <!-- Materials not needed for now
+ ## <p align="center">**<code>Analytics</code>**</p>
 <p align="center">
 <a href="https://github.com/HerndonE">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HerndonE&show_icons=true&hide_border=true&theme=merko" /></a>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HerndonE&layout=compact&hide_border=true&theme=merko" />
   <img height="180em" src="https://github-profile-trophy.vercel.app/?username=herndone&column=-1&theme=gruvbox&no-frame=true" alt="herndone""/></a>
 </p>
-
-![header](https://capsule-render.vercel.app/api?type=waving&color=013208&height=100&section=footer)
-
- <!-- Materials not needed for now
+ 
+ 
  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=herndone&" alt="herndone"
  
  <img align="left" alt="c++" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/cplusplus.svg" />
